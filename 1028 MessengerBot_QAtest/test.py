@@ -1,0 +1,3 @@
+import word
+
+# print(lis)

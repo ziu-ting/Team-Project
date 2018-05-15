@@ -1,0 +1,3 @@
+lis = 'abc'
+
+print(lis)
